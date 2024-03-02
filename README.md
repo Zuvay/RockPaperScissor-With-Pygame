@@ -34,12 +34,12 @@ Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 </ul>
 </li>
 <li>Enjoy the game and try to beat your high score!</li>
- </ol>
+</ol>
 
 <h2>Installation</h2>
 <ol>
-<li>Clone the repository:
-<pre><code>git clone https://github.com/your_username/rock-paper-scissors.git</code></pre>
+<li>Install SQlite:
+<pre><code>pip install sqlite3</code></pre>
 </li>
 <li>Install Pygame:
 <pre><code>pip install pygame</code></pre>
@@ -49,8 +49,6 @@ Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 <h2>How to Contribute</h2>
 <p>Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit
         a pull request.</p>
-
-
 
 
 </html>
