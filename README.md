@@ -31,9 +31,9 @@ Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 <li>'p' for paper</li>
 <li>'s' for scissors</li>
 <li>'esc' to exit the game</li>
-</ul>
-</li>
+<br>
 <li>Enjoy the game and try to beat your high score!</li>
+</ul>
 </ol>
 
 <h2>Installation</h2>
