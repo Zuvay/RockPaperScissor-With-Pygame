@@ -25,16 +25,14 @@ Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 </ul>
 
 <h2>How to Play</h2>
-<ol>
 <ul>
 <li>'r' for rock</li>
 <li>'p' for paper</li>
 <li>'s' for scissors</li>
 <li>'esc' to exit the game</li>
-<br>
 <li>Enjoy the game and try to beat your high score!</li>
 </ul>
-</ol>
+
 
 <h2>Installation</h2>
 <ol>
