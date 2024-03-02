@@ -10,6 +10,9 @@
 <body>
     <h1>Rock Paper Scissors Game</h1>
 
+<h2>Video Demo</h2>
+<p>Check out the video demo of the game on <a href="https://youtu.be/k7M53BoJsdM">YouTube</a>.</p>
+
 <p>This is a simple implementation of the classic rock-paper-scissors game developed using Python, Pygame, and SQLite.
 Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 
@@ -23,10 +26,6 @@ Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 
 <h2>How to Play</h2>
 <ol>
-<li>Clone the repository to your local machine.</li>
-<li>Make sure you have Python and Pygame installed.</li>
-<li>Run the <code>rps_game.py</code> file.</li>
-<li>Use the following keys to play:
 <ul>
 <li>'r' for rock</li>
 <li>'p' for paper</li>
@@ -51,14 +50,7 @@ Players can enjoy the game by selecting their moves through keyboard inputs.</p>
 <p>Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit
         a pull request.</p>
 
-<h2>Video Demo</h2>
-<p>Check out the video demo of the game on <a href="https://youtu.be/k7M53BoJsdM">YouTube</a>.</p>
 
-<h2>Credits</h2>
-<p>This game was created by [Your Name]. Feel free to reach out with any questions or feedback.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</body>
 
 </html>
